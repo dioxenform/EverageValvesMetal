@@ -2,14 +2,14 @@ import Footer from "../../Components/Footer";
 import Header from "../../Components/Header";
 import HeaderForList from "../../Components/HeaderForList";
 import MainCard from "../../Components/MainCard";
-import EllCouplings1Image from "../../Images/globevalves1.jpg";
-import EllCouplings2Image from "../../Images/globevalves2.jpg";
-import EllCouplings3Image from "../../Images/globevalves3.jpg";
-import EllCouplings4Image from "../../Images/globevalves4.jpg";
-import EllCouplings5Image from "../../Images/globevalves5.jpg";
-import EllCouplings6Image from "../../Images/globevalves6.jpg";
-import EllCouplings7Image from "../../Images/globevalves7.jpg";
-import EllCouplings8Image from "../../Images/globevalves8.jpg";
+import EllCouplings1Image from "../../Images/296.jpg";
+import EllCouplings2Image from "../../Images/297.jpg";
+import EllCouplings3Image from "../../Images/298.jpg";
+import EllCouplings4Image from "../../Images/299.jpg";
+import EllCouplings5Image from "../../Images/300.jpg";
+import EllCouplings6Image from "../../Images/301.jpg";
+import EllCouplings7Image from "../../Images/302.jpg";
+import EllCouplings8Image from "../../Images/303.jpg";
 
 type Product = {
   image: string;

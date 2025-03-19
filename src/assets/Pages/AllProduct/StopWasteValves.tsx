@@ -23,38 +23,38 @@ const Products: Product[] = [
     description: "  ",
   },
   {
-    image: StopWasteValves1Image,
+    image: StopWasteValves2Image,
     title: " 61 # STOP VALVES FEMALE X MALE - MV 1A - MV 2A ",
     description: "  ",
   },
   {
-    image: StopWasteValves1Image,
+    image: StopWasteValves3Image,
     title: " 62 # STOP & WASTE VALVE - MV 5-13 - MV 7-14 ",
     description: "  ",
   },
   {
-    image: StopWasteValves1Image,
+    image: StopWasteValves4Image,
     title: " 63 # STOP & WASTE VALVE WITH COMP. NUT - MV 9 - MV 12 ",
     description: "  ",
   },
   {
-    image: StopWasteValves1Image,
+    image: StopWasteValves5Image,
     title:
       " 64 # STOP & WASTE VALVES WITH CPVC COUPLING PIPE PVC - MV 9 CPVC - MV 12 CPVC ",
     description: "  ",
   },
   {
-    image: StopWasteValves1Image,
+    image: StopWasteValves6Image,
     title: " 65 # STOP ANGLE VALVES - MV15-16 - MV 17-18 ",
     description: "  ",
   },
   {
-    image: StopWasteValves1Image,
+    image: StopWasteValves7Image,
     title: "66 # STOP & WASTE VALVES - MV 113  ",
     description: "  ",
   },
   {
-    image: StopWasteValves1Image,
+    image: StopWasteValves8Image,
     title: " 67 # STOP & WASTE VALVES WITH PEX - MVP 9-10 MVP 11-12 ",
     description: "  ",
   },
