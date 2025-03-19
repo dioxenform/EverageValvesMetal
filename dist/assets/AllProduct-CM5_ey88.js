@@ -1,0 +1,1 @@
+import{j as r}from"./index-0nsSG5mN.js";import{H as s,F as t}from"./Header-28yJXeR0.js";import{H as o}from"./HeaderForList-aCi11ECh.js";import"./clsx-B-dksMZM.js";const x=()=>r.jsxs("div",{className:"bg-white text-black ",children:[r.jsx(s,{}),r.jsx(o,{}),r.jsx(t,{})]});export{x as default};
